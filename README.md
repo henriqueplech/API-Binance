@@ -4,3 +4,7 @@ Esse projeto tem como objetivo se conectar via API na Binance(Corretora de cript
 O link do site Binance 
 
 https://www.binance.com/pt-BR/trade/BTC_USDT?theme=dark&type=spot
+<h2>Required</h2>
+<p>!pip install pandas</p>
+<p>!!pip install python-binance</p>
+<h2>Run and see</h2>
