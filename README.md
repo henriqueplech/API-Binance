@@ -1,10 +1,15 @@
+# Previsão Mecado financeiro
+utilizando as mais modernas tecnologias tenho como ambição pessoal desenvolver um programa que utilize os dados abstraidos do mercado financeiro para fazer uma previsão 5 minutos adiantada do 'price'.
+<p>Esse modelo deverá valer para qualquer criptoativo presente na binance.</p>
+
 # API-Binance
 Esse projeto tem como objetivo se conectar via API na Binance(Corretora de cripto ativos) e desenvolver um banco de dados que receba informações de um determinado ativo(BTCUSDT), a partir disso fazer qualquer tipo de manipulação de dados que eu queira.
+<h2 href="https://www.binance.com/pt-BR/trade/BTC_USDT?theme=dark&type=spot">Binance site ativo BTC/USDT em tempo real</h2>
 
-O link do site Binance 
-
-https://www.binance.com/pt-BR/trade/BTC_USDT?theme=dark&type=spot
 <h2>Required</h2>
+
 <p>!pip install pandas</p>
-<p>!!pip install python-binance</p>
+<p>!pip install python-binance</p>
+<p>!pip install sklearn</p>
+<p>!pip install datetime</p>
 <h2>Run and see</h2>
