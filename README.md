@@ -12,4 +12,5 @@ Esse projeto tem como objetivo se conectar via API na Binance(Corretora de cript
 <p>!pip install python-binance</p>
 <p>!pip install sklearn</p>
 <p>!pip install datetime</p>
-<h2>Run and see</h2>
+
+<h3>Run and see</h3>
