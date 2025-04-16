@@ -1,4 +1,4 @@
-# Previsão Mecado financeiro
+# Mecado financeiro em Tempo Real
 utilizando as mais modernas tecnologias tenho como ambição pessoal desenvolver um programa que utilize os dados abstraidos do mercado financeiro para fazer uma previsão 5 minutos adiantada do 'price'.
 <p>Esse modelo deverá valer para qualquer criptoativo presente na binance.</p>
 
